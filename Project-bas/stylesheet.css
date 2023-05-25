@@ -1,0 +1,55 @@
+body{
+    background-color: white ;
+}
+
+img{
+    border-radius: 2px;
+    width: 150px;
+
+}
+
+.Navigatie {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    width: 500px;
+    background-color: lightgray;
+    margin-left: 500px;
+    margin-top: 50px;
+    font-weight: bolder;
+  }
+
+  
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 6px;
+    text-decoration: none;
+    text-align: center;
+  }
+
+  .terugknop {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    width: 100px;
+    background-color: lightgray;
+    margin-left: 1350px;
+    margin-top: -140px;
+    font-weight: bolder;
+  }
+
+  #terugknop2 {
+    display: block;
+    color: #000;
+    padding: 8px 6px;
+    text-decoration: none;
+    text-align: center;
+  }
+
+  #formulier{
+    margin-left: 200px;
+    
+    
+    
+  }
